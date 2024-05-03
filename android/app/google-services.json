@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343475136627",
+    "project_id": "bucket-bfa5c",
+    "storage_bucket": "bucket-bfa5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343475136627:android:fa0c5108ffebb3ec9e2206",
+        "android_client_info": {
+          "package_name": "com.buckettodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343475136627-mmvo5nqa1r31sq5r5639sdd4gki16pu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.buckettodoapp",
+            "certificate_hash": "e6c1f99bbd8b98627bee1f96a85c4bac713df17e"
+          }
+        },
+        {
+          "client_id": "343475136627-eekqt8ibc2f6bqm5v1u0mq8abbsp9quo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbh02AnaqkuoDJ8EPrRuS9sm8pJCT2R_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343475136627-eekqt8ibc2f6bqm5v1u0mq8abbsp9quo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

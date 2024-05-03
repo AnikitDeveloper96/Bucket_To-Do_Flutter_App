@@ -1,0 +1,37 @@
+com.bucketapp-browser-1.5.0-0 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\2f4dabbf32a230b6125acf961c12bf9e\transformed\browser-1.5.0\res
+com.bucketapp-jetified-core-common-2.0.2-1 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\324e62935700a35042af08fbf7d5b634\transformed\jetified-core-common-2.0.2\res
+com.bucketapp-jetified-play-services-basement-18.3.0-2 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\43dac1ac92e56e586193f315a93a6c04\transformed\jetified-play-services-basement-18.3.0\res
+com.bucketapp-jetified-play-services-auth-21.0.0-3 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\49a6a611b736dee57102bcb0ff2878a0\transformed\jetified-play-services-auth-21.0.0\res
+com.bucketapp-lifecycle-runtime-2.5.1-4 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\51f49c3dd2cd2a6cb0a31638c182e837\transformed\lifecycle-runtime-2.5.1\res
+com.bucketapp-jetified-window-java-1.0.0-beta04-5 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\56adccc7edb61e231f592b3a5bbe5e96\transformed\jetified-window-java-1.0.0-beta04\res
+com.bucketapp-jetified-firebase-common-20.4.3-6 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\5823c1d8c46a739dbdb63cb2ab168c78\transformed\jetified-firebase-common-20.4.3\res
+com.bucketapp-jetified-core-ktx-1.10.1-7 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\5c09d3a0c9507ec71ae39e57c863187a\transformed\jetified-core-ktx-1.10.1\res
+com.bucketapp-jetified-play-services-measurement-api-21.6.1-8 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\5e88ec63ae1d360e5265d61681747bf0\transformed\jetified-play-services-measurement-api-21.6.1\res
+com.bucketapp-jetified-annotation-experimental-1.3.0-9 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\6dc7f840db9bcae4d1673a9e67ded8e5\transformed\jetified-annotation-experimental-1.3.0\res
+com.bucketapp-jetified-play-services-base-18.2.0-10 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\ab8f7d7b0263dafa99b509b5841966c5\transformed\jetified-play-services-base-18.2.0\res
+com.bucketapp-core-1.10.1-11 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\b3cea2261563eaca05ececa3eda942de\transformed\core-1.10.1\res
+com.bucketapp-jetified-ads-adservices-java-1.0.0-beta05-12 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\be170280d78e12086cfecdf5208d7673\transformed\jetified-ads-adservices-java-1.0.0-beta05\res
+com.bucketapp-jetified-lifecycle-viewmodel-savedstate-2.5.1-13 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\c4b2d7c3f9d3fb306912b48bdfe87033\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.bucketapp-jetified-activity-1.5.1-14 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\d0508fb5ae671a76906649e278fa24cf\transformed\jetified-activity-1.5.1\res
+com.bucketapp-lifecycle-livedata-core-2.5.1-15 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\d0e944a49e6ad6d907c99f24a10cb2d0\transformed\lifecycle-livedata-core-2.5.1\res
+com.bucketapp-jetified-window-1.0.0-beta04-16 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\e8aa6920bdac2e0a968209f40db47faf\transformed\jetified-window-1.0.0-beta04\res
+com.bucketapp-jetified-ads-adservices-1.0.0-beta05-17 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\ebf0416b00e923a66b2462db4f9bebb1\transformed\jetified-ads-adservices-1.0.0-beta05\res
+com.bucketapp-lifecycle-viewmodel-2.5.1-18 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\f22a9d7e4a5c39c042cedf1c844bd79a\transformed\lifecycle-viewmodel-2.5.1\res
+com.bucketapp-jetified-savedstate-1.2.0-19 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\f41f018f0c25172fa432a2697775ff1a\transformed\jetified-savedstate-1.2.0\res
+com.bucketapp-fragment-1.5.7-20 C:\Users\Anikit Grover-2355\.gradle\caches\transforms-3\f7b2a7b52990094facf7ce94c1c6ab39\transformed\fragment-1.5.7\res
+com.bucketapp-main-21 D:\Bucket_To-Do_Firebase_CRED_App\android\app\src\main\res
+com.bucketapp-release-22 D:\Bucket_To-Do_Firebase_CRED_App\android\app\src\release\res
+com.bucketapp-pngs-23 D:\Bucket_To-Do_Firebase_CRED_App\build\app\generated\res\pngs\release
+com.bucketapp-resValues-24 D:\Bucket_To-Do_Firebase_CRED_App\build\app\generated\res\resValues\release
+com.bucketapp-rs-25 D:\Bucket_To-Do_Firebase_CRED_App\build\app\generated\res\rs\release
+com.bucketapp-mergeReleaseResources-26 D:\Bucket_To-Do_Firebase_CRED_App\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.bucketapp-mergeReleaseResources-27 D:\Bucket_To-Do_Firebase_CRED_App\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.bucketapp-merged_res-28 D:\Bucket_To-Do_Firebase_CRED_App\build\app\intermediates\merged_res\release
+com.bucketapp-packaged_res-29 D:\Bucket_To-Do_Firebase_CRED_App\build\cloud_firestore\intermediates\packaged_res\release
+com.bucketapp-packaged_res-30 D:\Bucket_To-Do_Firebase_CRED_App\build\connectivity_plus\intermediates\packaged_res\release
+com.bucketapp-packaged_res-31 D:\Bucket_To-Do_Firebase_CRED_App\build\firebase_auth\intermediates\packaged_res\release
+com.bucketapp-packaged_res-32 D:\Bucket_To-Do_Firebase_CRED_App\build\firebase_core\intermediates\packaged_res\release
+com.bucketapp-packaged_res-33 D:\Bucket_To-Do_Firebase_CRED_App\build\fluttertoast\intermediates\packaged_res\release
+com.bucketapp-packaged_res-34 D:\Bucket_To-Do_Firebase_CRED_App\build\google_sign_in_android\intermediates\packaged_res\release
+com.bucketapp-packaged_res-35 D:\Bucket_To-Do_Firebase_CRED_App\build\in_app_review\intermediates\packaged_res\release
+com.bucketapp-packaged_res-36 D:\Bucket_To-Do_Firebase_CRED_App\build\url_launcher_android\intermediates\packaged_res\release
